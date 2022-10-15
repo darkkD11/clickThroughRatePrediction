@@ -4,3 +4,7 @@ The Goal is to enhance the click through rate (CTR) of the contextual advertisem
 increase the overall revenue of the system by serving the advertisements more suitable to the viewers with the help of feature extraction and displaying the advertisements based on
 context of the publishers. The important steps include the data collection, feature extraction, CTR prediction and advertisement serving. The statistical results obtained from the
 dynamically used technique show an efficient outcome by fitting the data close to perfection for the LR technique using optimized feature.
+
+
+## Dataset Link: https://drive.google.com/drive/folders/1PIvB40gXleY6rewCHJRpJ6Q2EyPcyMOK?usp=sharing
+
